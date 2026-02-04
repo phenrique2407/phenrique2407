@@ -11,8 +11,9 @@
 ## 🌐 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dias-brito-a58844329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:brito.phenrique@gmail.com](https://criarmeulink.com.br/u/1770218920))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brito.phenrique@gmail.com)
 
+📧 **E-mail:** [brito.phenrique@gmail.com](mailto:brito.phenrique@gmail.com)
 ---
 
 ## 💻 Estudando:
