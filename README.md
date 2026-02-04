@@ -8,12 +8,12 @@
 
 ---
 
-## 🌐 Redes Sociais:
+## 🌐 Redes Sociais e Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dias-brito-a58844329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brito.phenrique@gmail.com)
 
-📧 **E-mail:** [brito.phenrique@gmail.com](mailto:brito.phenrique@gmail.com)
+📫 **E-mail para contato:**
+`brito.phenrique@gmail.com`
 ---
 
 ## 💻 Estudando:
