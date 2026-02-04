@@ -2,8 +2,8 @@
 
 * 📚 **Estudante de ADS**
 * 💼 **Técnico em Análise e Desenvolvimento de Sistemas no Senai | 2024 - 2025**
-* 🔭 **Busco por aprendizado a cada dia.**
-* 🌱 **Iniciando Carreira.**
+* 🔭 **Busco por aprendizado.**
+* 🌱 **Iniciando Carreira, na busca de um primeiro emprego.**
 * 👾 **Disposto a desafios!**
 
 ---
@@ -11,7 +11,7 @@
 ## 🌐 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dias-brito-a58844329/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brito.phenrique@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:brito.phenrique@gmail.com](https://criarmeulink.com.br/u/1770218920))
 
 ---
 
