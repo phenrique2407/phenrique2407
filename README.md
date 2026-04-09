@@ -1,7 +1,7 @@
 # 👋 Sobre Mim:
 
 * 📚 **Estudante de ADS**
-* 💼 **Fazendo Curso Superior em Análise e Desenvolvimento de Sistemas no Senai
+* 💼 **Fazendo Curso Superior em Análise e Desenvolvimento de Sistemas no Senai**
 * 🔭 **Busco por aprendizado.**
 * 🌱 **Iniciando Carreira, na busca de um primeiro emprego.**
 * 👾 **Disposto a desafios!**
