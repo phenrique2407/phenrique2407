@@ -10,9 +10,6 @@
 
 <br/>
 
-![Visitantes](https://komarev.com/ghpvc/?username=phenrique2407&label=Visitas+ao+perfil&color=0A4D8C&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/phenrique2407?label=Seguidores&style=for-the-badge&logo=github&color=121011)
-
 </div>
 
 ---
